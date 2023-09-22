@@ -1,5 +1,5 @@
 import os
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = #Enter key
 
 from langchain import OpenAI, PromptTemplate, LLMChain
 from langchain.chains import SequentialChain
